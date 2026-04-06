@@ -1,16 +1,14 @@
 📓 Web App – My Diary 
 
-A lightweight, browser-based diary built with HTML.
+A minimalist web-based diary personal diary focused on clean typography and intuitive layout. Designed to provide a seamlass journaling experiance, built with HTML.
 
 ✨ Features
 
-• Standard arithmetic operations (Addition, Subtraction, Multiplication, Division).
+• Date-based entry organization, clean and modern UI and fully responsive semantic HTML structure.
 
-• Decimal point support for precise calculations.
+• AI Feature: Random Question of the day.
 
-• Fully Responsive Design for mobile and desktop views.
-
-• Clear function to reset current calculations.
+• Mood Tracker Feature: Record your emotions each day and display them as a graph for the last 7 days.
 
 🛠️ Tech Stack
 
